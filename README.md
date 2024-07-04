@@ -1,7 +1,8 @@
-# ADS508-Final_Project
-Class: Data Science with Cloud Computing at University of San Diego
+# Optimal Locations for Water Treatment Facility in San Diego County
+Class: ADS 508 - Data Science with Cloud Computing at University of San Diego
 
-### Optimal Locations for Water Treatment Facility in San Diego County
+-----------------------------------------------
+
 Water parameters were analyzed from samples across San Diego county. Samples were classified into acceptable or not acceptable levels for drinking water. Data was used to find the 10 best cluster centers to recommend locations for water treatment plants, based on areas with the highest density of acceptable parameter measures. 
 
 Each of the analyzed paramters has a specified acceptable range in the code. These ranges can be manipulated. 
